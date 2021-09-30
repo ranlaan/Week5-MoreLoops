@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LOGitpe21\MoreLoops\OneToHunded\bin\Debug\netcoreapp3.1\OneToHunded.exe
+C:\Users\opilane\source\repos\LOGitpe21\MoreLoops\OneToHunded\bin\Debug\netcoreapp3.1\OneToHunded.deps.json
+C:\Users\opilane\source\repos\LOGitpe21\MoreLoops\OneToHunded\bin\Debug\netcoreapp3.1\OneToHunded.runtimeconfig.json
+C:\Users\opilane\source\repos\LOGitpe21\MoreLoops\OneToHunded\bin\Debug\netcoreapp3.1\OneToHunded.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LOGitpe21\MoreLoops\OneToHunded\bin\Debug\netcoreapp3.1\OneToHunded.dll
+C:\Users\opilane\source\repos\LOGitpe21\MoreLoops\OneToHunded\bin\Debug\netcoreapp3.1\OneToHunded.pdb
+C:\Users\opilane\source\repos\LOGitpe21\MoreLoops\OneToHunded\obj\Debug\netcoreapp3.1\OneToHunded.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGitpe21\MoreLoops\OneToHunded\obj\Debug\netcoreapp3.1\OneToHunded.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\MoreLoops\OneToHunded\obj\Debug\netcoreapp3.1\OneToHunded.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGitpe21\MoreLoops\OneToHunded\obj\Debug\netcoreapp3.1\OneToHunded.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LOGitpe21\MoreLoops\OneToHunded\obj\Debug\netcoreapp3.1\OneToHunded.dll
+C:\Users\opilane\source\repos\LOGitpe21\MoreLoops\OneToHunded\obj\Debug\netcoreapp3.1\OneToHunded.pdb
+C:\Users\opilane\source\repos\LOGitpe21\MoreLoops\OneToHunded\obj\Debug\netcoreapp3.1\OneToHunded.genruntimeconfig.cache
